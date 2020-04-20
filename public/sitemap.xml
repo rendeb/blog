@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://127.0.0.1:1111/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/email/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/posts/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/posts/do-people-still-blog-in-2020/</loc>
+            
+                <lastmod>2020-04-19</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>http://127.0.0.1:1111/tags/personal/</loc>
+            
+        </url>
+    
+</urlset>
